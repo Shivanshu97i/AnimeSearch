@@ -1,0 +1,26 @@
+{
+  "name": "aniime-search-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write \"src/**/*.{js,jsx}\"",
+    "dev": "parcel src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shivanshu97i/Aniime-Search-Site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shivanshu97i/Aniime-Search-Site/issues"
+  },
+  "homepage": "https://github.com/Shivanshu97i/Aniime-Search-Site#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.16.8",
+    "@babel/core": "^7.16.10",
+    "eslint": "^8.7.0",
+    "esli
