@@ -21,6 +21,28 @@
   "homepage": "https://github.com/Shivanshu97i/Aniime-Search-Site#readme",
   "devDependencies": {
     "@babel/cli": "^7.16.8",
-    "@babel/core": "^7.16.10",
+    "@babel/core": "^7.12.16",
+    "@babel/plugin-proposal-class-properties": "^7.16.7",
+    "@babel/preset-react": "^7.12.13",
+    "autoprefixer": "^10.4.2",
     "eslint": "^8.7.0",
-    "esli
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-react": "^7.28.0",
+    "parcel": "^2.2.1",
+    "postcss": "^8.4.5",
+    "tailwindcss": "^3.0.15"
+  },
+  "dependencies": {
+    "@babel/preset-env": "^7.16.11",
+    "@headlessui/react": "^1.4.3",
+    "@heroicons/react": "^1.0.5",
+    "@parcel/babel-preset-env": "^2.2.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "browserslist": [
+    "last 2 Chrome versions"
+  ]
+}
