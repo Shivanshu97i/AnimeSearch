@@ -1,0 +1,12 @@
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+.tag-footer {
+  align-items: right;
+}
+.icon {
+  color: black;
+  size: 200px;
+}

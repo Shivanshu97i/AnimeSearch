@@ -1,0 +1,15 @@
+body {
+  background-color: #fff9f9;
+  font-family: "Mochiy Pop P One", sans-serif;
+  font-family: "Ubuntu", sans-serif;
+  background-image: url("Gifs\giphy.gif");
+  background-repeat: repeat;
+  position: "absolute";
+  width: "100%";
+  left: "50%";
+  top: "50%";
+  height: "100%";
+  objectfit: "cover";
+  transform: "translate(-50%, -50%)";
+  zindex: "-1";
+}
