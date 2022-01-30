@@ -1,4 +1,9 @@
-25899
+25905
+84D:\College\Projects\Aniime-Search-Site\node_modules\core-js\internals\array-slice.js132872719341719317 0
+101D:\College\Projects\Aniime-Search-Site\node_modules\@heroicons\react\outline\ChevronDoubleUpIcon.d.ts132872724798674499 0
+89D:\College\Projects\Aniime-Search-Site\node_modules\autoprefixer\lib\hacks\align-items.js132872721215025063 0
+61D:\College\Projects\Aniime-Search-Site\src\Gifs\giphy (5).gif132879495279390616 0
+104D:\College\Projects\Aniime-Search-Site\node_modules\regenerate-unicode-properties\Script\Syloti_Nagri.js132872712820407513 0
 53D:\College\Projects\Aniime-Search-Site\src\Footer.css132878540100909948 0
 95D:\College\Projects\Aniime-Search-Site\node_modules\@heroicons\react\solid\CursorClickIcon.d.ts132872724799213055 0
 79D:\College\Projects\Aniime-Search-Site\node_modules\object-inspect\package.json132872692758751671 0
@@ -43,7 +48,7 @@
 69D:\College\Projects\Aniime-Search-Site\node_modules\svgo\lib\style.js132872719341759210 0
 95D:\College\Projects\Aniime-Search-Site\node_modules\core-js-pure\features\symbol\description.js132872709012062413 0
 136D:\College\Projects\Aniime-Search-Site\node_modules\eslint-plugin-react\node_modules\resolve\test\resolver\nested_symlinks\mylib\sync.js132872709105355004 0
-43D:\College\Projects\Aniime-Search-Site\dist132879493735296771 1
+43D:\College\Projects\Aniime-Search-Site\dist132879498916871527 1
 81D:\College\Projects\Aniime-Search-Site\node_modules\entities\lib\maps\legacy.json132872719309922703 0
 100D:\College\Projects\Aniime-Search-Site\node_modules\core-js-pure\internals\engine-is-webos-webkit.js132872709012511215 0
 86D:\College\Projects\Aniime-Search-Site\node_modules\mdn-data\css\selectors.schema.json132872719326738242 0
@@ -99,12 +104,6 @@
 49D:\College\Projects\Aniime-Search-Site\.gitignore132879469268856610 0
 90D:\College\Projects\Aniime-Search-Site\node_modules\@parcel\transformer-babel\lib\utils.js132872719320435036 0
 74D:\College\Projects\Aniime-Search-Site\node_modules\object.entries\LICENSE132872709103420188 0
-94D:\College\Projects\Aniime-Search-Site\node_modules\eslint\lib\cli-engine\lint-result-cache.js132872690979281332 0
-89D:\College\Projects\Aniime-Search-Site\node_modules\object.entries\test\implementation.js132872709103519919 0
-78D:\College\Projects\Aniime-Search-Site\node_modules\follow-redirects\README.md132872719305514492 0
-73D:\College\Projects\Aniime-Search-Site\node_modules\is-typed-array\.nycrc132872719291637979 0
-78D:\College\Projects\Aniime-Search-Site\node_modules\jquery\src\var\isWindow.js132877675837373591 0
-75D:\College\Projects\Aniime-Search-Site\node_modules\array.prototype.flatmap132879457751569787 1
 96D:\College\Projects\Aniime-Search-Site\node_modules\@heroicons\react\solid\DotsHorizontalIcon.js132872724791673218 0
 97D:\College\Projects\Aniime-Search-Site\node_modules\eslint-utils\node_modules\eslint-visitor-keys132879457830320554 1
 80D:\College\Projects\Aniime-Search-Site\node_modules\public-encrypt\test\index.js132872692751964841 0
@@ -159,7 +158,7 @@
 79D:\College\Projects\Aniime-Search-Site\node_modules\text-table\test\dotalign.js132872690972509441 0
 83D:\College\Projects\Aniime-Search-Site\node_modules\.bin\babel-external-helpers.cmd132872694514309765 0
 70D:\College\Projects\Aniime-Search-Site\node_modules\dlv\dist\dlv.es.js132872721214785706 0
-47D:\College\Projects\Aniime-Search-Site\src\Gifs132879476472943269 1
+47D:\College\Projects\Aniime-Search-Site\src\Gifs132879498099150802 1
 67D:\College\Projects\Aniime-Search-Site\node_modules\mime-db\db.json132872719293961761 0
 57D:\College\Projects\Aniime-Search-Site\node_modules\bytes132879457754593442 1
 89D:\College\Projects\Aniime-Search-Site\node_modules\source-map\dist\source-map.min.js.map132872692748165203 0
@@ -334,7 +333,7 @@
 111D:\College\Projects\Aniime-Search-Site\node_modules\popper.js\src\utils\getOffsetRectRelativeToArbitraryNode.js132877675838929418 0
 98D:\College\Projects\Aniime-Search-Site\node_modules\eslint-plugin-import\docs\rules\unambiguous.md132872708838124828 0
 72D:\College\Projects\Aniime-Search-Site\node_modules\resolve\test\mock.js132872708833018503 0
-53D:\College\Projects\Aniime-Search-Site\src\styles.css132879493847915518 0
+53D:\College\Projects\Aniime-Search-Site\src\styles.css132879498149501357 0
 87D:\College\Projects\Aniime-Search-Site\node_modules\core-js\actual\instance\index-of.js132872719380580011 0
 94D:\College\Projects\Aniime-Search-Site\node_modules\tailwindcss\lib\processTailwindFeatures.js132872721221898917 0
 57D:\College\Projects\Aniime-Search-Site\node_modules\react132879457886456283 1
@@ -353,7 +352,7 @@
 66D:\College\Projects\Aniime-Search-Site\node_modules\to-regex-range132879457891556313 1
 74D:\College\Projects\Aniime-Search-Site\node_modules\pako\lib\zlib\trees.js132872692762904389 0
 76D:\College\Projects\Aniime-Search-Site\node_modules\lodash\_charsEndIndex.js132872716419648658 0
-53D:\College\Projects\Aniime-Search-Site\src\Navbar.css132877657793574472 0
+53D:\College\Projects\Aniime-Search-Site\src\Navbar.css132879498912806459 0
 96D:\College\Projects\Aniime-Search-Site\node_modules\@heroicons\react\outline\ArrowsExpandIcon.js132872724781448611 0
 69D:\College\Projects\Aniime-Search-Site\node_modules\postcss-calc\dist132879467544022605 1
 84D:\College\Projects\Aniime-Search-Site\node_modules\svgo\plugins\sortDefsChildren.js132872719341559743 0
@@ -399,14 +398,6 @@
 90D:\College\Projects\Aniime-Search-Site\node_modules\core-js\actual\string\virtual\index.js132872719380749566 0
 96D:\College\Projects\Aniime-Search-Site\node_modules\bootstrap-icons\icons\file-earmark-minus.svg132873377412160946 0
 55D:\College\Projects\Aniime-Search-Site\src\SearchBar.js132878564004502966 0
-103D:\College\Projects\Aniime-Search-Site\node_modules\@heroicons\react\solid\PresentationChartLineIcon.js132872724794705113 0
-65D:\College\Projects\Aniime-Search-Site\node_modules\vm-browserify132879457893362865 1
-61D:\College\Projects\Aniime-Search-Site\node_modules\commander132879457762484828 1
-78D:\College\Projects\Aniime-Search-Site\node_modules\htmlnano\docs\package.json132872719336871397 0
-79D:\College\Projects\Aniime-Search-Site\node_modules\core-js\es\date\set-year.js132872719384599272 0
-83D:\College\Projects\Aniime-Search-Site\node_modules\@parcel\reporter-dev-server\src132879457731781293 1
-85D:\College\Projects\Aniime-Search-Site\node_modules\@parcel\utils\lib\alternatives.js132872719288896369 0
-59D:\College\Projects\Aniime-Search-Site\node_modules\asn1.js132879457751639600 1
 86D:\College\Projects\Aniime-Search-Site\node_modules\regenerator-transform\src\index.js132872712816707121 0
 88D:\College\Projects\Aniime-Search-Site\node_modules\es-abstract\2020\BigInt\sameValue.js132872692876502969 0
 61D:\College\Projects\Aniime-Search-Site\src\Gifs\giphy (1).gif132879474205402936 0
@@ -454,6 +445,51 @@
 61D:\College\Projects\Aniime-Search-Site\src\Gifs\giphy (3).gif132879475800242874 0
 82D:\College\Projects\Aniime-Search-Site\node_modules\bootstrap-icons\icons\bell.svg132873377403732158 0
 80D:\College\Projects\Aniime-Search-Site\node_modules\json-schema-traverse\LICENSE132872690968719583 0
+90D:\College\Projects\Aniime-Search-Site\node_modules\bootstrap\scss\mixins\_pagination.scss132877671323677394 0
+78D:\College\Projects\Aniime-Search-Site\node_modules\is-generator-function\test132879457853987334 1
+76D:\College\Projects\Aniime-Search-Site\node_modules\es-abstract\2016\GetV.js132872692855049126 0
+77D:\College\Projects\Aniime-Search-Site\node_modules\vm-browserify\example\run132879457893352894 1
+91D:\College\Projects\Aniime-Search-Site\node_modules\bootstrap-icons\icons\bookmark-fill.svg132873377403921656 0
+59D:\College\Projects\Aniime-Search-Site\node_modules\reusify132879457888255717 1
+85D:\College\Projects\Aniime-Search-Site\node_modules\es-abstract\2017\SameValueZero.js132872692876952616 0
+62D:\College\Projects\Aniime-Search-Site\node_modules\acorn-walk132879466124806219 1
+75D:\College\Projects\Aniime-Search-Site\node_modules\fast-url-parser\LICENSE132872719291887313 0
+99D:\College\Projects\Aniime-Search-Site\node_modules\regenerate-unicode-properties\Script\Grantha.js132872712818751788 0
+93D:\College\Projects\Aniime-Search-Site\node_modules\autoprefixer\lib\hacks\background-clip.js132872721216802558 0
+66D:\College\Projects\Aniime-Search-Site\node_modules\lmdb\prebuilds132879457859551248 1
+71D:\College\Projects\Aniime-Search-Site\node_modules\lodash\fp\object.js132872716424964450 0
+76D:\College\Projects\Aniime-Search-Site\node_modules\signal-exit\package.json132872692720209678 0
+61D:\College\Projects\Aniime-Search-Site\src\Gifs\giphy (6).gif132879496708187179 0
+65D:\College\Projects\Aniime-Search-Site\node_modules\nth-check\lib132879457880306783 1
+95D:\College\Projects\Aniime-Search-Site\node_modules\@heroicons\react\outline\esm\UserAddIcon.js132872724796709754 0
+81D:\College\Projects\Aniime-Search-Site\node_modules\@swc\helpers\lib\_to_array.js132872719339744583 0
+79D:\College\Projects\Aniime-Search-Site\node_modules\lodash\_arrayReduceRight.js132872716418471812 0
+70D:\College\Projects\Aniime-Search-Site\node_modules\quick-lru\index.js132872721214456580 0
+89D:\College\Projects\Aniime-Search-Site\node_modules\bootstrap\scss\helpers\_clearfix.scss132877671323019158 0
+71D:\College\Projects\Aniime-Search-Site\node_modules\eslint-module-utils132879457826704782 1
+93D:\College\Projects\Aniime-Search-Site\node_modules\bootstrap-icons\icons\house-door-fill.svg132873377415262809 0
+58D:\College\Projects\Aniime-Search-Site\node_modules\@babel132879457702638929 1
+96D:\College\Projects\Aniime-Search-Site\node_modules\@babel\plugin-transform-modules-systemjs\lib132879457697636029 1
+70D:\College\Projects\Aniime-Search-Site\node_modules\detective\index.js132872721214905386 0
+97D:\College\Projects\Aniime-Search-Site\node_modules\fast-json-stable-stringify\example\key_cmp.js132872690968948959 0
+78D:\College\Projects\Aniime-Search-Site\node_modules\highlight.js\scss\far.scss132872719359407814 0
+61D:\College\Projects\Aniime-Search-Site\src\Gifs\giphy (7).gif132879498100991406 0
+85D:\College\Projects\Aniime-Search-Site\node_modules\highlight.js\lib\languages\ini.js132872719352254983 0
+94D:\College\Projects\Aniime-Search-Site\node_modules\htmlnano\docs\versioned_docs\version-2.0.0132879457849030378 1
+76D:\College\Projects\Aniime-Search-Site\node_modules\svgo\lib\svgo\plugins.js132872719333689653 0
+97D:\College\Projects\Aniime-Search-Site\node_modules\core-js-pure\stable\array\virtual\index-of.js132872709019582304 0
+83D:\College\Projects\Aniime-Search-Site\node_modules\core-js-pure\es\regexp\split.js132872709024708602 0
+69D:\College\Projects\Aniime-Search-Site\node_modules\onetime\readme.md132872719292176538 0
+89D:\College\Projects\Aniime-Search-Site\node_modules\core-js\proposals\array-from-async.js132872719339954038 0
+101D:\College\Projects\Aniime-Search-Site\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest4.c132872719342267842 0
+74D:\College\Projects\Aniime-Search-Site\node_modules\postcss-merge-longhand132879467548643692 1
+73D:\College\Projects\Aniime-Search-Site\node_modules\lodash\_createBind.js132872716419878049 0
+62D:\College\Projects\Aniime-Search-Site\node_modules\flat-cache132879457832964189 1
+104D:\College\Projects\Aniime-Search-Site\node_modules\@babel\runtime-corejs3\helpers\esm\writeOnlyError.js132872709013418777 0
+59D:\College\Projects\Aniime-Search-Site\node_modules\ieee754132879457850115233 1
+98D:\College\Projects\Aniime-Search-Site\node_modules\@heroicons\react\outline\esm\MenuAlt4Icon.d.ts132872724801752292 0
+95D:\College\Projects\Aniime-Search-Site\node_modules\caniuse-lite\data\features\input-pattern.js132872692865163917 0
+67D:\College\Projects\Aniime-Search-Site\node_modules\resolve\sync.js132872708833477270 0
 84D:\College\Projects\Aniime-Search-Site\node_modules\get-symbol-description\README.md132872692737041769 0
 91D:\College\Projects\Aniime-Search-Site\node_modules\highlight.js\lib\languages\smalltalk.js132872719356734955 0
 74D:\College\Projects\Aniime-Search-Site\node_modules\ripemd160\CHANGELOG.md132872692719651078 0
@@ -509,15 +545,6 @@
 73D:\College\Projects\Aniime-Search-Site\node_modules\lodash\_baseCreate.js132872716418651318 0
 91D:\College\Projects\Aniime-Search-Site\node_modules\finalhandler\node_modules\debug\LICENSE132872719293532918 0
 63D:\College\Projects\Aniime-Search-Site\node_modules\log-symbols132879457862610110 1
-65D:\College\Projects\Aniime-Search-Site\node_modules\nth-check\lib132879457880306783 1
-95D:\College\Projects\Aniime-Search-Site\node_modules\@heroicons\react\outline\esm\UserAddIcon.js132872724796709754 0
-81D:\College\Projects\Aniime-Search-Site\node_modules\@swc\helpers\lib\_to_array.js132872719339744583 0
-79D:\College\Projects\Aniime-Search-Site\node_modules\lodash\_arrayReduceRight.js132872716418471812 0
-70D:\College\Projects\Aniime-Search-Site\node_modules\quick-lru\index.js132872721214456580 0
-89D:\College\Projects\Aniime-Search-Site\node_modules\bootstrap\scss\helpers\_clearfix.scss132877671323019158 0
-71D:\College\Projects\Aniime-Search-Site\node_modules\eslint-module-utils132879457826704782 1
-93D:\College\Projects\Aniime-Search-Site\node_modules\bootstrap-icons\icons\house-door-fill.svg132873377415262809 0
-58D:\College\Projects\Aniime-Search-Site\node_modules\@babel132879457702638929 1
 91D:\College\Projects\Aniime-Search-Site\node_modules\caniuse-lite\data\features\xhtmlsmil.js132872692901080883 0
 59D:\College\Projects\Aniime-Search-Site\node_modules\@eslint132879457703067781 1
 58D:\College\Projects\Aniime-Search-Site\node_modules\lodash132879457862590166 1
@@ -610,14 +637,6 @@
 61D:\College\Projects\Aniime-Search-Site\node_modules\acorn-jsx132879457749827997 1
 62D:\College\Projects\Aniime-Search-Site\node_modules\acorn-node132879457749907773 1
 77D:\College\Projects\Aniime-Search-Site\node_modules\yaml\browser\parse-cst.js132872719325641192 0
-90D:\College\Projects\Aniime-Search-Site\node_modules\bootstrap\scss\mixins\_pagination.scss132877671323677394 0
-78D:\College\Projects\Aniime-Search-Site\node_modules\is-generator-function\test132879457853987334 1
-76D:\College\Projects\Aniime-Search-Site\node_modules\es-abstract\2016\GetV.js132872692855049126 0
-77D:\College\Projects\Aniime-Search-Site\node_modules\vm-browserify\example\run132879457893352894 1
-91D:\College\Projects\Aniime-Search-Site\node_modules\bootstrap-icons\icons\bookmark-fill.svg132873377403921656 0
-59D:\College\Projects\Aniime-Search-Site\node_modules\reusify132879457888255717 1
-85D:\College\Projects\Aniime-Search-Site\node_modules\es-abstract\2017\SameValueZero.js132872692876952616 0
-62D:\College\Projects\Aniime-Search-Site\node_modules\acorn-walk132879466124806219 1
 55D:\College\Projects\Aniime-Search-Site\node_modules\ajv132879466125803685 1
 76D:\College\Projects\Aniime-Search-Site\node_modules\axe-core\locales\fr.json132872709005549816 0
 82D:\College\Projects\Aniime-Search-Site\node_modules\highlight.js\scss\darcula.scss132872719359278168 0
@@ -688,6 +707,20 @@
 73D:\College\Projects\Aniime-Search-Site\node_modules\core-js\web\timers.js132872719385646470 0
 77D:\College\Projects\Aniime-Search-Site\node_modules\scheduler\build-info.json132872699256148651 0
 81D:\College\Projects\Aniime-Search-Site\node_modules\tailwindcss\lib\util\color.js132872721217809866 0
+94D:\College\Projects\Aniime-Search-Site\node_modules\eslint\lib\cli-engine\lint-result-cache.js132872690979281332 0
+89D:\College\Projects\Aniime-Search-Site\node_modules\object.entries\test\implementation.js132872709103519919 0
+78D:\College\Projects\Aniime-Search-Site\node_modules\follow-redirects\README.md132872719305514492 0
+73D:\College\Projects\Aniime-Search-Site\node_modules\is-typed-array\.nycrc132872719291637979 0
+78D:\College\Projects\Aniime-Search-Site\node_modules\jquery\src\var\isWindow.js132877675837373591 0
+75D:\College\Projects\Aniime-Search-Site\node_modules\array.prototype.flatmap132879457751569787 1
+103D:\College\Projects\Aniime-Search-Site\node_modules\@heroicons\react\solid\PresentationChartLineIcon.js132872724794705113 0
+65D:\College\Projects\Aniime-Search-Site\node_modules\vm-browserify132879457893362865 1
+61D:\College\Projects\Aniime-Search-Site\node_modules\commander132879457762484828 1
+78D:\College\Projects\Aniime-Search-Site\node_modules\htmlnano\docs\package.json132872719336871397 0
+79D:\College\Projects\Aniime-Search-Site\node_modules\core-js\es\date\set-year.js132872719384599272 0
+83D:\College\Projects\Aniime-Search-Site\node_modules\@parcel\reporter-dev-server\src132879457731781293 1
+85D:\College\Projects\Aniime-Search-Site\node_modules\@parcel\utils\lib\alternatives.js132872719288896369 0
+59D:\College\Projects\Aniime-Search-Site\node_modules\asn1.js132879457751639600 1
 66D:\College\Projects\Aniime-Search-Site\node_modules\yaml\util.d.ts132872719340283166 0
 76D:\College\Projects\Aniime-Search-Site\node_modules\lodash\fp\reduceRight.js132872716425652606 0
 66D:\College\Projects\Aniime-Search-Site\node_modules\string_decoder132879457889261936 1
@@ -777,9 +810,6 @@
 82D:\College\Projects\Aniime-Search-Site\node_modules\available-typed-arrays\LICENSE132872719291647963 0
 61D:\College\Projects\Aniime-Search-Site\node_modules\callsites132879457754743041 1
 66D:\College\Projects\Aniime-Search-Site\node_modules\axobject-query132879457753342336 1
-90D:\College\Projects\Aniime-Search-Site\node_modules\string.prototype.trimend\.editorconfig132872692708893895 0
-85D:\College\Projects\Aniime-Search-Site\node_modules\unicode-match-property-ecmascript132879457892135815 1
-83D:\College\Projects\Aniime-Search-Site\node_modules\es-abstract\2015\MinFromTime.js132872692865450639 0
 89D:\College\Projects\Aniime-Search-Site\node_modules\@heroicons\react\solid\esm\MapIcon.js132872724793588095 0
 72D:\College\Projects\Aniime-Search-Site\node_modules\lodash\_asciiSize.js132872716418511693 0
 74D:\College\Projects\Aniime-Search-Site\node_modules\node-forge\lib\oids.js132872719333520101 0
@@ -1846,19 +1876,6 @@
 80D:\College\Projects\Aniime-Search-Site\node_modules\espree\lib\ast-node-types.js132872690969517444 0
 110D:\College\Projects\Aniime-Search-Site\node_modules\regenerate-unicode-properties\Script_Extensions\Elbasan.js132872712818582231 0
 59D:\College\Projects\Aniime-Search-Site\node_modules\find-up132879457832914320 1
-97D:\College\Projects\Aniime-Search-Site\node_modules\core-js-pure\stable\array\virtual\index-of.js132872709019582304 0
-83D:\College\Projects\Aniime-Search-Site\node_modules\core-js-pure\es\regexp\split.js132872709024708602 0
-69D:\College\Projects\Aniime-Search-Site\node_modules\onetime\readme.md132872719292176538 0
-89D:\College\Projects\Aniime-Search-Site\node_modules\core-js\proposals\array-from-async.js132872719339954038 0
-101D:\College\Projects\Aniime-Search-Site\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest4.c132872719342267842 0
-74D:\College\Projects\Aniime-Search-Site\node_modules\postcss-merge-longhand132879467548643692 1
-73D:\College\Projects\Aniime-Search-Site\node_modules\lodash\_createBind.js132872716419878049 0
-62D:\College\Projects\Aniime-Search-Site\node_modules\flat-cache132879457832964189 1
-104D:\College\Projects\Aniime-Search-Site\node_modules\@babel\runtime-corejs3\helpers\esm\writeOnlyError.js132872709013418777 0
-59D:\College\Projects\Aniime-Search-Site\node_modules\ieee754132879457850115233 1
-98D:\College\Projects\Aniime-Search-Site\node_modules\@heroicons\react\outline\esm\MenuAlt4Icon.d.ts132872724801752292 0
-95D:\College\Projects\Aniime-Search-Site\node_modules\caniuse-lite\data\features\input-pattern.js132872692865163917 0
-67D:\College\Projects\Aniime-Search-Site\node_modules\resolve\sync.js132872708833477270 0
 60D:\College\Projects\Aniime-Search-Site\node_modules\parseurl132879457882149534 1
 82D:\College\Projects\Aniime-Search-Site\node_modules\is-boolean-object\CHANGELOG.md132872692733897010 0
 59D:\College\Projects\Aniime-Search-Site\node_modules\flatted132879457833610877 1
@@ -2344,7 +2361,6 @@
 141D:\College\Projects\Aniime-Search-Site\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false-glob\package.json132872719343674079 0
 68D:\College\Projects\Aniime-Search-Site\node_modules\lmdb\src\txn.cpp132872719345918094 0
 67D:\College\Projects\Aniime-Search-Site\node_modules\lodash.debounce132879457859962433 1
-95D:\College\Projects\Aniime-Search-Site\node_modules\unicode-canonical-property-names-ecmascript132879457892106822 1
 66D:\College\Projects\Aniime-Search-Site\node_modules\lodash.memoize132879457859972365 1
 85D:\College\Projects\Aniime-Search-Site\node_modules\source-map-js\lib\mapping-list.js132872719303938708 0
 99D:\College\Projects\Aniime-Search-Site\node_modules\@heroicons\react\solid\CubeTransparentIcon.d.ts132872724799083407 0
@@ -2432,9 +2448,6 @@
 88D:\College\Projects\Aniime-Search-Site\node_modules\highlight.js\scss\arduino-light.scss132872719358320708 0
 75D:\College\Projects\Aniime-Search-Site\node_modules\core-js\actual\weak-map132879457784153281 1
 60D:\College\Projects\Aniime-Search-Site\node_modules\mimic-fn132879457863698887 1
-131D:\College\Projects\Aniime-Search-Site\node_modules\eslint-plugin-jsx-a11y\__tests__\src\rules\label-has-associated-control-test.js132872709008252597 0
-97D:\College\Projects\Aniime-Search-Site\node_modules\core-js-pure\es\array\virtual\reduce-right.js132872709023322293 0
-82D:\College\Projects\Aniime-Search-Site\node_modules\resolve\test\precedence\aaa.js132872708831083764 0
 74D:\College\Projects\Aniime-Search-Site\node_modules\range-parser\README.md132872719277563554 0
 97D:\College\Projects\Aniime-Search-Site\node_modules\tailwindcss\lib\util\isValidArbitraryValue.js132872721221360360 0
 90D:\College\Projects\Aniime-Search-Site\node_modules\type-fest\source\iterable-element.d.ts132872690973057977 0
@@ -2509,12 +2522,6 @@
 83D:\College\Projects\Aniime-Search-Site\node_modules\caniuse-lite\data\regions\GW.js132872692863150941 0
 83D:\College\Projects\Aniime-Search-Site\node_modules\supports-preserve-symlinks-flag132879457889441750 1
 88D:\College\Projects\Aniime-Search-Site\node_modules\core-js-pure\internals\same-value.js132872709023870829 0
-110D:\College\Projects\Aniime-Search-Site\node_modules\regenerate-unicode-properties\Script_Extensions\Soyombo.js132872712820317746 0
-81D:\College\Projects\Aniime-Search-Site\node_modules\eslint-scope\lib\reference.js132872690970823957 0
-76D:\College\Projects\Aniime-Search-Site\node_modules\punycode\punycode.es6.js132872690965821665 0
-88D:\College\Projects\Aniime-Search-Site\node_modules\core-js-pure\es\string\trim-right.js132872709027170313 0
-82D:\College\Projects\Aniime-Search-Site\node_modules\object-inspect\test\element.js132872692738521404 0
-80D:\College\Projects\Aniime-Search-Site\node_modules\text-table\test\doubledot.js132872690972818613 0
 80D:\College\Projects\Aniime-Search-Site\node_modules\es-abstract\2015\TimeClip.js132872692890969996 0
 82D:\College\Projects\Aniime-Search-Site\node_modules\resolve\test\resolver\dot_main132879457888116085 1
 61D:\College\Projects\Aniime-Search-Site\node_modules\nth-check132879457880306783 1
@@ -3083,6 +3090,10 @@
 85D:\College\Projects\Aniime-Search-Site\node_modules\jsx-ast-utils\lib\values\index.js132872709006178137 0
 72D:\College\Projects\Aniime-Search-Site\node_modules\create-ecdh\index.js132872692723437946 0
 67D:\College\Projects\Aniime-Search-Site\node_modules\unbox-primitive132879457892056511 1
+95D:\College\Projects\Aniime-Search-Site\node_modules\unicode-canonical-property-names-ecmascript132879457892106822 1
+90D:\College\Projects\Aniime-Search-Site\node_modules\string.prototype.trimend\.editorconfig132872692708893895 0
+85D:\College\Projects\Aniime-Search-Site\node_modules\unicode-match-property-ecmascript132879457892135815 1
+83D:\College\Projects\Aniime-Search-Site\node_modules\es-abstract\2015\MinFromTime.js132872692865450639 0
 94D:\College\Projects\Aniime-Search-Site\node_modules\eslint-plugin-jsx-a11y\lib\util\schemas.js132872709010815727 0
 108D:\College\Projects\Aniime-Search-Site\node_modules\tailwindcss\node_modules\fast-glob\out\readers\sync.d.ts132872721219026606 0
 75D:\College\Projects\Aniime-Search-Site\node_modules\to-regex-range\index.js132872692718534064 0
@@ -3951,7 +3962,7 @@
 97D:\College\Projects\Aniime-Search-Site\node_modules\@babel\plugin-transform-literals\package.json132872712815350379 0
 102D:\College\Projects\Aniime-Search-Site\node_modules\caniuse-lite\data\features\document-execcommand.js132872692853000234 0
 95D:\College\Projects\Aniime-Search-Site\node_modules\core-js-pure\stable\object\lookup-setter.js132872709021736538 0
-103D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\components\transitions\utils132879465829069492 1
+103D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\components\transitions\utils132879465829129332 1
 77D:\College\Projects\Aniime-Search-Site\node_modules\msgpackr-extract\index.js132872719293532918 0
 65D:\College\Projects\Aniime-Search-Site\node_modules\url\.zuul.yml132872692743644789 0
 87D:\College\Projects\Aniime-Search-Site\node_modules\jake\test\integration\concurrent.js132872719329321342 0
@@ -4109,14 +4120,14 @@
 86D:\College\Projects\Aniime-Search-Site\node_modules\uri-js\dist\es5\uri.all.min.js.map132872690976099843 0
 103D:\College\Projects\Aniime-Search-Site\node_modules\@parcel\source-map\parcel_sourcemap_node\src\lib.rs132872719344541915 0
 73D:\College\Projects\Aniime-Search-Site\node_modules\object.values\auto.js132872708829438063 0
-68D:\College\Projects\Aniime-Search-Site\node_modules\type-fest\source132879457891966736 1
-69D:\College\Projects\Aniime-Search-Site\node_modules\unpipe\HISTORY.md132872719297282893 0
 83D:\College\Projects\Aniime-Search-Site\node_modules\regenerator-transform\README.md132872712817724739 0
 70D:\College\Projects\Aniime-Search-Site\node_modules\htmlnano\README.md132872719342098306 0
 79D:\College\Projects\Aniime-Search-Site\node_modules\text-table\example\align.js132872690968427236 0
 108D:\College\Projects\Aniime-Search-Site\node_modules\@parcel\utils\test\input\sourcemap\referenced-min.js.map132872719344342297 0
 77D:\College\Projects\Aniime-Search-Site\node_modules\jquery\src\ajax\script.js132877675838570362 0
 91D:\College\Projects\Aniime-Search-Site\node_modules\connect\node_modules\debug\src\index.js132872719310910057 0
+68D:\College\Projects\Aniime-Search-Site\node_modules\type-fest\source132879457891966736 1
+69D:\College\Projects\Aniime-Search-Site\node_modules\unpipe\HISTORY.md132872719297282893 0
 67D:\College\Projects\Aniime-Search-Site\node_modules\unpipe\index.js132872719291817499 0
 88D:\College\Projects\Aniime-Search-Site\node_modules\core-js\stable\instance\pad-start.js132872719383552067 0
 76D:\College\Projects\Aniime-Search-Site\node_modules\object.entries\README.md132872709104168185 0
@@ -4434,6 +4445,12 @@
 129D:\College\Projects\Aniime-Search-Site\node_modules\hash-base\node_modules\readable-stream\lib\internal\streams\stream-browser.js132872692806106890 0
 82D:\College\Projects\Aniime-Search-Site\node_modules\@parcel\cache\lib\LMDBCache.js132872719308586272 0
 75D:\College\Projects\Aniime-Search-Site\node_modules\text-table\package.json132872690966400115 0
+110D:\College\Projects\Aniime-Search-Site\node_modules\regenerate-unicode-properties\Script_Extensions\Soyombo.js132872712820317746 0
+81D:\College\Projects\Aniime-Search-Site\node_modules\eslint-scope\lib\reference.js132872690970823957 0
+76D:\College\Projects\Aniime-Search-Site\node_modules\punycode\punycode.es6.js132872690965821665 0
+88D:\College\Projects\Aniime-Search-Site\node_modules\core-js-pure\es\string\trim-right.js132872709027170313 0
+82D:\College\Projects\Aniime-Search-Site\node_modules\object-inspect\test\element.js132872692738521404 0
+80D:\College\Projects\Aniime-Search-Site\node_modules\text-table\test\doubledot.js132872690972818613 0
 87D:\College\Projects\Aniime-Search-Site\node_modules\highlight.js\styles\brown-paper.css132872719330727581 0
 76D:\College\Projects\Aniime-Search-Site\node_modules\text-table\test\table.js132872690973028050 0
 81D:\College\Projects\Aniime-Search-Site\node_modules\bootstrap-icons\icons\geo.svg132873377414355255 0
@@ -5496,8 +5513,6 @@
 81D:\College\Projects\Aniime-Search-Site\node_modules\js-yaml\lib\type\timestamp.js132872690975860474 0
 76D:\College\Projects\Aniime-Search-Site\node_modules\svgo\lib\svgo\jsAPI.d.ts132872719343534470 0
 84D:\College\Projects\Aniime-Search-Site\node_modules\postcss-ordered-values\README.md132872719321392473 0
-94D:\College\Projects\Aniime-Search-Site\node_modules\htmlnano\docs\versioned_docs\version-2.0.0132879457849030378 1
-76D:\College\Projects\Aniime-Search-Site\node_modules\svgo\lib\svgo\plugins.js132872719333689653 0
 81D:\College\Projects\Aniime-Search-Site\node_modules\core-js\actual\string\virtual132879457784013653 1
 65D:\College\Projects\Aniime-Search-Site\node_modules\svgo\bin\svgo132872719281513217 0
 90D:\College\Projects\Aniime-Search-Site\node_modules\core-js\features\instance\match-all.js132872719382724283 0
@@ -5593,9 +5608,6 @@
 90D:\College\Projects\Aniime-Search-Site\node_modules\stylehacks\dist\dictionary\browsers.js132872719293712436 0
 108D:\College\Projects\Aniime-Search-Site\node_modules\core-js-pure\features\typed-array\uint8-clamped-array.js132872709027519377 0
 93D:\College\Projects\Aniime-Search-Site\node_modules\stylehacks\dist\dictionary\identifiers.js132872719307090276 0
-79D:\College\Projects\Aniime-Search-Site\node_modules\resolve\test\precedence\aaa132879457888096138 1
-102D:\College\Projects\Aniime-Search-Site\node_modules\caniuse-lite\data\features\private-class-fields.js132872692884885844 0
-76D:\College\Projects\Aniime-Search-Site\node_modules\fraction.js\package.json132872721216094451 0
 80D:\College\Projects\Aniime-Search-Site\node_modules\core-js\actual\array\sort.js132872719384938366 0
 74D:\College\Projects\Aniime-Search-Site\node_modules\lodash\fp\functions.js132872716423139330 0
 89D:\College\Projects\Aniime-Search-Site\node_modules\stylehacks\dist\dictionary\postcss.js132872719321252846 0
@@ -6020,6 +6032,7 @@
 96D:\College\Projects\Aniime-Search-Site\node_modules\@babel\runtime-corejs3\core-js\math\isubh.js132872709010346993 0
 77D:\College\Projects\Aniime-Search-Site\node_modules\@types\http-proxy\LICENSE132872719266349186 0
 107D:\College\Projects\Aniime-Search-Site\node_modules\source-map-support\node_modules\source-map\CHANGELOG.md132872692803816357 0
+66D:\College\Projects\Aniime-Search-Site\dist\giphy (7).15ef95c7.gif132879498153331803 0
 101D:\College\Projects\Aniime-Search-Site\node_modules\bootstrap-icons\icons\exclamation-square-fill.svg132873377410954227 0
 95D:\College\Projects\Aniime-Search-Site\node_modules\core-js-pure\modules\es.typed-array.join.js132872709015134192 0
 89D:\College\Projects\Aniime-Search-Site\node_modules\@heroicons\react\solid\ArrowUpIcon.js132872724781687972 0
@@ -6157,12 +6170,6 @@
 89D:\College\Projects\Aniime-Search-Site\node_modules\@parcel\cache\lib\IDBCache.browser.js132872719294430513 0
 124D:\College\Projects\Aniime-Search-Site\node_modules\regenerate-unicode-properties\Binary_Property\Logical_Order_Exception.js132872712819390086 0
 72D:\College\Projects\Aniime-Search-Site\node_modules\signal-exit\index.js132872692714826135 0
-75D:\College\Projects\Aniime-Search-Site\node_modules\fast-url-parser\LICENSE132872719291887313 0
-99D:\College\Projects\Aniime-Search-Site\node_modules\regenerate-unicode-properties\Script\Grantha.js132872712818751788 0
-93D:\College\Projects\Aniime-Search-Site\node_modules\autoprefixer\lib\hacks\background-clip.js132872721216802558 0
-66D:\College\Projects\Aniime-Search-Site\node_modules\lmdb\prebuilds132879457859551248 1
-71D:\College\Projects\Aniime-Search-Site\node_modules\lodash\fp\object.js132872716424964450 0
-76D:\College\Projects\Aniime-Search-Site\node_modules\signal-exit\package.json132872692720209678 0
 73D:\College\Projects\Aniime-Search-Site\node_modules\signal-exit\README.md132872692723527703 0
 100D:\College\Projects\Aniime-Search-Site\node_modules\@babel\runtime-corejs3\core-js\instance\slice.js132872709008970672 0
 81D:\College\Projects\Aniime-Search-Site\node_modules\json-source-map\.eslintrc.yml132872719277503719 0
@@ -6281,7 +6288,7 @@
 98D:\College\Projects\Aniime-Search-Site\node_modules\@babel\runtime-corejs3\core-js\get-iterator.js132872709008541822 0
 75D:\College\Projects\Aniime-Search-Site\node_modules\lodash\_listCacheHas.js132872716420755700 0
 86D:\College\Projects\Aniime-Search-Site\node_modules\postcss-modules-scope\src\index.js132872719282570392 0
-65D:\College\Projects\Aniime-Search-Site\dist\index.7271efb6.js.map132879493438800024 0
+65D:\College\Projects\Aniime-Search-Site\dist\index.7271efb6.js.map132879498153538181 0
 94D:\College\Projects\Aniime-Search-Site\node_modules\@parcel\core\test\fixtures\invalid-engines132879457709520386 1
 69D:\College\Projects\Aniime-Search-Site\node_modules\semver\bin\semver132872692710052895 0
 109D:\College\Projects\Aniime-Search-Site\node_modules\regenerate-unicode-properties\Script_Extensions\Wancho.js132872712820736630 0
@@ -6510,6 +6517,12 @@
 79D:\College\Projects\Aniime-Search-Site\node_modules\binary-extensions\readme.md132872694502255496 0
 90D:\College\Projects\Aniime-Search-Site\node_modules\core-js-pure\proposals\number-range.js132872709022384795 0
 100D:\College\Projects\Aniime-Search-Site\node_modules\resolve\test\resolver\browser_field\package.json132872708833586969 0
+79D:\College\Projects\Aniime-Search-Site\node_modules\resolve\test\precedence\aaa132879457888096138 1
+102D:\College\Projects\Aniime-Search-Site\node_modules\caniuse-lite\data\features\private-class-fields.js132872692884885844 0
+76D:\College\Projects\Aniime-Search-Site\node_modules\fraction.js\package.json132872721216094451 0
+131D:\College\Projects\Aniime-Search-Site\node_modules\eslint-plugin-jsx-a11y\__tests__\src\rules\label-has-associated-control-test.js132872709008252597 0
+97D:\College\Projects\Aniime-Search-Site\node_modules\core-js-pure\es\array\virtual\reduce-right.js132872709023322293 0
+82D:\College\Projects\Aniime-Search-Site\node_modules\resolve\test\precedence\aaa.js132872708831083764 0
 89D:\College\Projects\Aniime-Search-Site\node_modules\babel-plugin-polyfill-regenerator\lib132879457753501901 1
 87D:\College\Projects\Aniime-Search-Site\node_modules\resolve\test\precedence\bbb\main.js132872708832958643 0
 72D:\College\Projects\Aniime-Search-Site\node_modules\isarray\package.json132872692714846080 0
@@ -7334,10 +7347,6 @@
 69D:\College\Projects\Aniime-Search-Site\node_modules\lodash\toPairs.js132872716426639962 0
 99D:\College\Projects\Aniime-Search-Site\node_modules\regenerate-unicode-properties\Script\Siddham.js132872712820287820 0
 99D:\College\Projects\Aniime-Search-Site\node_modules\regenerate-unicode-properties\Script\Sinhala.js132872712820297794 0
-84D:\College\Projects\Aniime-Search-Site\node_modules\core-js\internals\array-slice.js132872719341719317 0
-101D:\College\Projects\Aniime-Search-Site\node_modules\@heroicons\react\outline\ChevronDoubleUpIcon.d.ts132872724798674499 0
-89D:\College\Projects\Aniime-Search-Site\node_modules\autoprefixer\lib\hacks\align-items.js132872721215025063 0
-104D:\College\Projects\Aniime-Search-Site\node_modules\regenerate-unicode-properties\Script\Syloti_Nagri.js132872712820407513 0
 84D:\College\Projects\Aniime-Search-Site\node_modules\es-abstract\2016\YearFromTime.js132872692899833374 0
 70D:\College\Projects\Aniime-Search-Site\node_modules\node-releases\data132879457880177408 1
 80D:\College\Projects\Aniime-Search-Site\node_modules\es-abstract\2018\ToObject.js132872692898137800 0
@@ -7524,7 +7533,7 @@
 86D:\College\Projects\Aniime-Search-Site\node_modules\highlight.js\scss\kimbie.dark.scss132872719361312715 0
 120D:\College\Projects\Aniime-Search-Site\node_modules\regenerate-unicode-properties\Binary_Property\Emoji_Modifier_Base.js132872712818632098 0
 106D:\College\Projects\Aniime-Search-Site\node_modules\jsx-ast-utils\src\values\expressions\CallExpression.js132872709004163532 0
-54D:\College\Projects\Aniime-Search-Site\dist\index.html132879493438091929 0
+54D:\College\Projects\Aniime-Search-Site\dist\index.html132879498153212129 0
 92D:\College\Projects\Aniime-Search-Site\node_modules\bootstrap-icons\icons\arrow-bar-down.svg132873377402226179 0
 98D:\College\Projects\Aniime-Search-Site\node_modules\readable-stream\lib\internal\streams\stream.js132872692749900219 0
 119D:\College\Projects\Aniime-Search-Site\node_modules\regenerate-unicode-properties\Binary_Property\Emoji_Presentation.js132872712818642074 0
@@ -8213,7 +8222,6 @@
 93D:\College\Projects\Aniime-Search-Site\node_modules\core-js\modules\es.typed-array.reverse.js132872719358769517 0
 72D:\College\Projects\Aniime-Search-Site\node_modules\lodash\_baseClone.js132872716418601458 0
 88D:\College\Projects\Aniime-Search-Site\node_modules\core-js-pure\actual\date\get-year.js132872709019023795 0
-87D:\College\Projects\Aniime-Search-Site\node_modules\caniuse-lite\data\features\audio.js132872692769187617 0
 100D:\College\Projects\Aniime-Search-Site\node_modules\postcss-normalize-display-values\dist\lib\map.js132872719289992394 0
 90D:\College\Projects\Aniime-Search-Site\node_modules\postcss-normalize-charset\CHANGELOG.md132872719293772267 0
 83D:\College\Projects\Aniime-Search-Site\node_modules\caniuse-lite\data\regions\RE.js132872692890450940 0
@@ -8929,9 +8937,6 @@
 115D:\College\Projects\Aniime-Search-Site\node_modules\@babel\runtime\helpers\classStaticPrivateFieldDestructureSet.js132872709004702080 0
 93D:\College\Projects\Aniime-Search-Site\node_modules\@babel\runtime-corejs3\helpers\esm\get.js132872709012910148 0
 99D:\College\Projects\Aniime-Search-Site\node_modules\highlight.js\scss\atom-one-dark-reasonable.scss132872719359158473 0
-88D:\College\Projects\Aniime-Search-Site\node_modules\@humanwhocodes\object-schema\LICENSE132872690965332977 0
-69D:\College\Projects\Aniime-Search-Site\node_modules\mkdirp\bin\cmd.js132872692731697566 0
-78D:\College\Projects\Aniime-Search-Site\node_modules\core-js\es\number\index.js132872719380899162 0
 98D:\College\Projects\Aniime-Search-Site\node_modules\@heroicons\react\outline\DeviceMobileIcon.d.ts132872724799262930 0
 77D:\College\Projects\Aniime-Search-Site\node_modules\pako\dist\pako_inflate.js132872692758372523 0
 74D:\College\Projects\Aniime-Search-Site\node_modules\object.assign\index.js132872692736469723 0
@@ -9266,7 +9271,7 @@
 85D:\College\Projects\Aniime-Search-Site\node_modules\bootstrap-icons\icons\bandaid.svg132873377403512745 0
 99D:\College\Projects\Aniime-Search-Site\node_modules\language-subtag-registry\data\json\special.json132872709005480000 0
 95D:\College\Projects\Aniime-Search-Site\node_modules\core-js\stable\string\virtual\trim-right.js132872719386394470 0
-96D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\components\focus-trap132879465826559220 1
+96D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\components\focus-trap132879465826679136 1
 106D:\College\Projects\Aniime-Search-Site\node_modules\@heroicons\react\outline\esm\ChevronDoubleRightIcon.js132872724784161355 0
 68D:\College\Projects\Aniime-Search-Site\node_modules\lodash\fp\set.js132872716425832118 0
 75D:\College\Projects\Aniime-Search-Site\node_modules\normalize-path\index.js132872694499717922 0
@@ -9572,6 +9577,9 @@
 72D:\College\Projects\Aniime-Search-Site\node_modules\lodash\fp\trimEnd.js132872716426799529 0
 71D:\College\Projects\Aniime-Search-Site\node_modules\mkdirp\package.json132872692735555469 0
 74D:\College\Projects\Aniime-Search-Site\node_modules\mkdirp\readme.markdown132872692737271021 0
+88D:\College\Projects\Aniime-Search-Site\node_modules\@humanwhocodes\object-schema\LICENSE132872690965332977 0
+69D:\College\Projects\Aniime-Search-Site\node_modules\mkdirp\bin\cmd.js132872692731697566 0
+78D:\College\Projects\Aniime-Search-Site\node_modules\core-js\es\number\index.js132872719380899162 0
 94D:\College\Projects\Aniime-Search-Site\node_modules\@popperjs\core\lib\utils\getAltLen.js.flow132877671320984599 0
 88D:\College\Projects\Aniime-Search-Site\node_modules\core-js-pure\stable\instance\keys.js132872709021497176 0
 72D:\College\Projects\Aniime-Search-Site\node_modules\minimist\.travis.yml132872692750773652 0
@@ -12597,7 +12605,6 @@
 95D:\College\Projects\Aniime-Search-Site\node_modules\axobject-query\lib\etc\objects\VideoRole.js132872709007574406 0
 90D:\College\Projects\Aniime-Search-Site\node_modules\htmlnano\lib\modules\removeComments.js132872719327605931 0
 88D:\College\Projects\Aniime-Search-Site\node_modules\core-js-pure\stable\regexp\sticky.js132872709025477249 0
-89D:\College\Projects\Aniime-Search-Site\node_modules\eslint-plugin-import\lib\ExportMap.js132872708832130877 0
 91D:\College\Projects\Aniime-Search-Site\node_modules\htmlnano\lib\modules\removeUnusedCss.js132872719329670402 0
 106D:\College\Projects\Aniime-Search-Site\node_modules\@heroicons\react\solid\esm\ChevronDoubleRightIcon.d.ts132872724798664528 0
 90D:\College\Projects\Aniime-Search-Site\node_modules\htmlnano\lib\modules\sortAttributes.js132872719330637819 0
@@ -12749,11 +12756,6 @@
 82D:\College\Projects\Aniime-Search-Site\node_modules\highlight.js\scss\default.scss132872719359338004 0
 80D:\College\Projects\Aniime-Search-Site\node_modules\highlight.js\scss\docco.scss132872719359367917 0
 83D:\College\Projects\Aniime-Search-Site\node_modules\caniuse-lite\data\regions\KW.js132872692870057919 0
-96D:\College\Projects\Aniime-Search-Site\node_modules\@babel\plugin-transform-modules-systemjs\lib132879457697636029 1
-70D:\College\Projects\Aniime-Search-Site\node_modules\detective\index.js132872721214905386 0
-97D:\College\Projects\Aniime-Search-Site\node_modules\fast-json-stable-stringify\example\key_cmp.js132872690968948959 0
-78D:\College\Projects\Aniime-Search-Site\node_modules\highlight.js\scss\far.scss132872719359407814 0
-85D:\College\Projects\Aniime-Search-Site\node_modules\highlight.js\lib\languages\ini.js132872719352254983 0
 85D:\College\Projects\Aniime-Search-Site\node_modules\highlight.js\scss\foundation.scss132872719359437743 0
 88D:\College\Projects\Aniime-Search-Site\node_modules\core-js-pure\actual\string\strike.js132872709025487222 0
 86D:\College\Projects\Aniime-Search-Site\node_modules\highlight.js\scss\github-gist.scss132872719359467657 0
@@ -12983,6 +12985,7 @@
 90D:\College\Projects\Aniime-Search-Site\node_modules\hash-base\node_modules\readable-stream132879457843056663 1
 87D:\College\Projects\Aniime-Search-Site\node_modules\highlight.js\lib\languages\vbnet.js132872719357393204 0
 88D:\College\Projects\Aniime-Search-Site\node_modules\highlight.js\lib\languages\x86asm.js132872719357622587 0
+66D:\College\Projects\Aniime-Search-Site\dist\giphy (6).0ca1bb4c.gif132879496747932444 0
 84D:\College\Projects\Aniime-Search-Site\node_modules\highlight.js\lib\languages\xl.js132872719357682416 0
 86D:\College\Projects\Aniime-Search-Site\node_modules\core-js\proposals\string-cooked.js132872719385257493 0
 100D:\College\Projects\Aniime-Search-Site\node_modules\@popperjs\core\lib\dom-utils\getNodeName.js.flow132877671318820373 0
@@ -13981,6 +13984,7 @@
 81D:\College\Projects\Aniime-Search-Site\node_modules\eslint-plugin-import\lib\core132879457826864355 1
 87D:\College\Projects\Aniime-Search-Site\node_modules\eslint-plugin-import\lib\docsUrl.js132872708829009203 0
 98D:\College\Projects\Aniime-Search-Site\node_modules\core-js\modules\es.object.define-properties.js132872719356056768 0
+89D:\College\Projects\Aniime-Search-Site\node_modules\eslint-plugin-import\lib\ExportMap.js132872708832130877 0
 78D:\College\Projects\Aniime-Search-Site\node_modules\es-abstract\2019\ToInt8.js132872692897778205 0
 90D:\College\Projects\Aniime-Search-Site\node_modules\@babel\runtime\helpers\objectSpread.js132872709008481980 0
 101D:\College\Projects\Aniime-Search-Site\node_modules\@heroicons\react\solid\esm\ChevronDoubleUpIcon.js132872724784610153 0
@@ -15213,7 +15217,7 @@
 91D:\College\Projects\Aniime-Search-Site\node_modules\core-js-pure\modules\es.string.blink.js132872709014615584 0
 75D:\College\Projects\Aniime-Search-Site\node_modules\core-js\es\math\cosh.js132872719351287570 0
 104D:\College\Projects\Aniime-Search-Site\node_modules\@babel\plugin-syntax-class-static-block\lib\index.js132872712814961417 0
-83D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\internal132879465831918947 1
+83D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\internal132879465831978795 1
 84D:\College\Projects\Aniime-Search-Site\node_modules\es-abstract\2019\IteratorNext.js132872692864471060 0
 84D:\College\Projects\Aniime-Search-Site\node_modules\es-abstract\2019\IteratorStep.js132872692864590744 0
 93D:\College\Projects\Aniime-Search-Site\node_modules\core-js-pure\es\array\virtual\includes.js132872709019432698 0
@@ -15614,7 +15618,7 @@
 85D:\College\Projects\Aniime-Search-Site\node_modules\@swc\helpers\lib\_to_primitive.js132872719339993918 0
 91D:\College\Projects\Aniime-Search-Site\node_modules\core-js-pure\actual\string\trim-left.js132872709027110478 0
 85D:\College\Projects\Aniime-Search-Site\node_modules\es-abstract\2016\SameValueZero.js132872692876942654 0
-61D:\College\Projects\Aniime-Search-Site\dist\index.7271efb6.js132879493438760144 0
+61D:\College\Projects\Aniime-Search-Site\dist\index.7271efb6.js132879498153498294 0
 75D:\College\Projects\Aniime-Search-Site\node_modules\es-abstract\2016\Set.js132872692877495286 0
 89D:\College\Projects\Aniime-Search-Site\node_modules\es-abstract\2016\SetIntegrityLevel.js132872692883265025 0
 90D:\College\Projects\Aniime-Search-Site\node_modules\es-abstract\2016\SpeciesConstructor.js132872692883594145 0
@@ -16638,7 +16642,7 @@
 84D:\College\Projects\Aniime-Search-Site\node_modules\core-js\features\map\find-key.js132872719378804766 0
 91D:\College\Projects\Aniime-Search-Site\node_modules\core-js-pure\stable\typed-array\sort.js132872709024618833 0
 99D:\College\Projects\Aniime-Search-Site\node_modules\core-js-pure\stable\typed-array\uint16-array.js132872709027459535 0
-80D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\utils132879465833504675 1
+80D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\utils132879465833584452 1
 96D:\College\Projects\Aniime-Search-Site\node_modules\@heroicons\react\outline\esm\ScissorsIcon.js132872724795303509 0
 106D:\College\Projects\Aniime-Search-Site\node_modules\core-js-pure\stable\typed-array\uint8-clamped-array.js132872709027529349 0
 94D:\College\Projects\Aniime-Search-Site\node_modules\core-js-pure\stable\symbol\has-instance.js132872709019253179 0
@@ -19112,7 +19116,7 @@
 80D:\College\Projects\Aniime-Search-Site\node_modules\.bin\node-gyp-build-test.ps1132872719388169710 0
 84D:\College\Projects\Aniime-Search-Site\node_modules\core-js\internals\create-html.js132872719351796212 0
 100D:\College\Projects\Aniime-Search-Site\node_modules\core-js\internals\create-iterator-constructor.js132872719351826143 0
-90D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\components\tabs132879465828594436 1
+90D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\components\tabs132879465828654277 1
 99D:\College\Projects\Aniime-Search-Site\node_modules\core-js\internals\create-property-descriptor.js132872719351836122 0
 83D:\College\Projects\Aniime-Search-Site\node_modules\caniuse-lite\data\regions\DO.js132872692852559000 0
 88D:\College\Projects\Aniime-Search-Site\node_modules\core-js\internals\create-property.js132872719351866034 0
@@ -19325,7 +19329,7 @@
 85D:\College\Projects\Aniime-Search-Site\node_modules\core-js\actual\number\to-fixed.js132872719385696342 0
 92D:\College\Projects\Aniime-Search-Site\node_modules\core-js\features\string\virtual\blink.js132872719349669330 0
 96D:\College\Projects\Aniime-Search-Site\node_modules\core-js\features\string\virtual\ends-with.js132872719352693824 0
-93D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\components\listbox132879465827098014 1
+93D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\components\listbox132879465827187768 1
 83D:\College\Projects\Aniime-Search-Site\node_modules\bootstrap-icons\icons\brush.svg132873377404819253 0
 96D:\College\Projects\Aniime-Search-Site\node_modules\core-js\features\string\virtual\fontcolor.js132872719379373244 0
 95D:\College\Projects\Aniime-Search-Site\node_modules\core-js\features\string\virtual\fontsize.js132872719379413136 0
@@ -19987,7 +19991,7 @@
 71D:\College\Projects\Aniime-Search-Site\node_modules\@parcel\workers\lib132879457749049217 1
 80D:\College\Projects\Aniime-Search-Site\node_modules\core-js\actual\array\some.js132872719384838627 0
 90D:\College\Projects\Aniime-Search-Site\node_modules\core-js\actual\array\virtual\concat.js132872719350798889 0
-90D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\hooks\__mocks__132872724791563518 1
+90D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\hooks\__mocks__132879465831494441 1
 88D:\College\Projects\Aniime-Search-Site\node_modules\core-js\actual\array\virtual\fill.js132872719378475643 0
 103D:\College\Projects\Aniime-Search-Site\node_modules\@heroicons\react\outline\esm\SortAscendingIcon.d.ts132872724802789504 0
 89D:\College\Projects\Aniime-Search-Site\node_modules\@heroicons\react\outline\GlobeIcon.js132872724792660576 0
@@ -20233,6 +20237,7 @@
 89D:\College\Projects\Aniime-Search-Site\node_modules\caniuse-lite\data\features\ac3-ec3.js132872692731857143 0
 98D:\College\Projects\Aniime-Search-Site\node_modules\caniuse-lite\data\features\addeventlistener.js132872692738343002 0
 87D:\College\Projects\Aniime-Search-Site\node_modules\caniuse-lite\data\features\asmjs.js132872692762864488 0
+87D:\College\Projects\Aniime-Search-Site\node_modules\caniuse-lite\data\features\audio.js132872692769187617 0
 93D:\College\Projects\Aniime-Search-Site\node_modules\caniuse-lite\data\features\audiotracks.js132872692769605979 0
 91D:\College\Projects\Aniime-Search-Site\node_modules\caniuse-lite\data\features\autofocus.js132872692769941936 0
 85D:\College\Projects\Aniime-Search-Site\node_modules\caniuse-lite\data\features\av1.js132872692770594246 0
@@ -23853,7 +23858,7 @@
 90D:\College\Projects\Aniime-Search-Site\node_modules\@nodelib\fs.scandir\out\adapters\fs.js132872719302871032 0
 78D:\College\Projects\Aniime-Search-Site\node_modules\@nicolo-ribaudo\chokidar-2132879465947665468 1
 96D:\College\Projects\Aniime-Search-Site\node_modules\@nicolo-ribaudo\chokidar-2\build-chokidar.sh132872694511420038 0
-83D:\College\Projects\Aniime-Search-Site\node_modules\@nicolo-ribaudo\chokidar-2\dist132872694509526325 1
+83D:\College\Projects\Aniime-Search-Site\node_modules\@nicolo-ribaudo\chokidar-2\dist132879465947806525 1
 85D:\College\Projects\Aniime-Search-Site\node_modules\@iarna\toml\parse-pretty-error.js132872692739318203 0
 91D:\College\Projects\Aniime-Search-Site\node_modules\@nicolo-ribaudo\chokidar-2\package.json132872694509956074 0
 88D:\College\Projects\Aniime-Search-Site\node_modules\@nicolo-ribaudo\chokidar-2\README.md132872694510480755 0
@@ -24027,7 +24032,7 @@
 88D:\College\Projects\Aniime-Search-Site\node_modules\@heroicons\react\solid\MailIcon.d.ts132872724801652554 0
 92D:\College\Projects\Aniime-Search-Site\node_modules\@heroicons\react\solid\MailOpenIcon.d.ts132872724801672502 0
 87D:\College\Projects\Aniime-Search-Site\node_modules\@heroicons\react\solid\MapIcon.d.ts132872724801692444 0
-62D:\College\Projects\Aniime-Search-Site\dist\index.c4530050.css132879493438101890 0
+62D:\College\Projects\Aniime-Search-Site\dist\index.c4530050.css132879498916861554 0
 92D:\College\Projects\Aniime-Search-Site\node_modules\@heroicons\react\solid\MenuAlt1Icon.d.ts132872724801712392 0
 90D:\College\Projects\Aniime-Search-Site\node_modules\@heroicons\react\solid\MenuAlt1Icon.js132872724793608044 0
 92D:\College\Projects\Aniime-Search-Site\node_modules\@heroicons\react\solid\MenuAlt4Icon.d.ts132872724801772222 0
@@ -24382,7 +24387,7 @@
 95D:\College\Projects\Aniime-Search-Site\node_modules\@heroicons\react\solid\esm\ZoomOutIcon.d.ts132872724803717033 0
 97D:\College\Projects\Aniime-Search-Site\node_modules\@heroicons\react\outline\AdjustmentsIcon.d.ts132872724797577427 0
 95D:\College\Projects\Aniime-Search-Site\node_modules\@heroicons\react\outline\AdjustmentsIcon.js132872724781009791 0
-92D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\components\switch132879465828404955 1
+92D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\components\switch132879465828464783 1
 94D:\College\Projects\Aniime-Search-Site\node_modules\@heroicons\react\outline\AnnotationIcon.js132872724781059647 0
 90D:\College\Projects\Aniime-Search-Site\node_modules\@heroicons\react\outline\StopIcon.d.ts132872724802949086 0
 93D:\College\Projects\Aniime-Search-Site\node_modules\@heroicons\react\outline\ArchiveIcon.d.ts132872724797617321 0
@@ -24823,9 +24828,9 @@
 108D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\headlessui.umd.development.js.map132872724785590947 0
 80D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\hooks132879465831474512 1
 87D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\index.esm.js132872724781727860 0
-85D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\test-utils132879465832128382 1
+85D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\test-utils132879465832148339 1
 85D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\types.d.ts132872724791443830 0
-83D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\_virtual132879465833714108 1
+83D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\_virtual132879465833763978 1
 112D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\_virtual\_rollupPluginBabelHelpers.js132872724779848694 0
 116D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\_virtual\_rollupPluginBabelHelpers.js.map132872724782715223 0
 90D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\utils\bugs.d.ts132872724789977338 0
@@ -24863,17 +24868,17 @@
 101D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\hooks\use-sync-refs.esm.js132872724782645429 0
 102D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\hooks\use-window-event.d.ts132872724791643295 0
 104D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\hooks\use-window-event.esm.js132872724782675351 0
-97D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\components\description132879465825341962 1
-92D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\components\dialog132879465826007707 1
-96D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\components\disclosure132879465826207172 1
+97D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\components\description132879465825776539 1
+92D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\components\dialog132879465826077518 1
+96D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\components\disclosure132879465826459481 1
 99D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\components\keyboard.d.ts132872724790226676 0
 101D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\components\keyboard.esm.js132872724781757782 0
 105D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\components\keyboard.esm.js.map132872724786129494 0
-91D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\components\label132879465826788838 1
-90D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\components\menu132879465827327399 1
-93D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\components\popover132879465827596681 1
-92D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\components\portal132879465827855990 1
-97D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\components\radio-group132879465828085373 1
+91D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\components\label132879465826848680 1
+90D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\components\menu132879465827417155 1
+93D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\components\popover132879465827686443 1
+92D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\components\portal132879465827915819 1
+97D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\components\radio-group132879465828155194 1
 113D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\components\transitions\transition.d.ts132872724791423883 0
 115D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\components\transitions\transition.esm.js132872724782236517 0
 121D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\components\transitions\utils\transition.esm.js132872724782286420 0
@@ -24901,7 +24906,7 @@
 104D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\components\dialog\dialog.d.ts132872724790057134 0
 114D:\College\Projects\Aniime-Search-Site\node_modules\@headlessui\react\dist\components\description\description.d.ts132872724790037191 0
 68D:\College\Projects\Aniime-Search-Site\node_modules\@eslint\eslintrc132879465813027136 1
-73D:\College\Projects\Aniime-Search-Site\node_modules\@eslint\eslintrc\dist132879465814094855 1
+73D:\College\Projects\Aniime-Search-Site\node_modules\@eslint\eslintrc\dist132879465814174645 1
 76D:\College\Projects\Aniime-Search-Site\node_modules\@eslint\eslintrc\LICENSE132872690969926349 0
 81D:\College\Projects\Aniime-Search-Site\node_modules\@eslint\eslintrc\package.json132872690976259415 0
 101D:\College\Projects\Aniime-Search-Site\node_modules\@eslint\eslintrc\node_modules\ignore\CHANGELOG.md132872690967828838 0
@@ -25892,9 +25897,10 @@
 69D:\College\Projects\Aniime-Search-Site\node_modules\.bin\tailwind.ps1132872721223275236 0
 72D:\College\Projects\Aniime-Search-Site\node_modules\.bin\tailwindcss.ps1132872721223275236 0
 66D:\College\Projects\Aniime-Search-Site\dist\giphy (2).2d15ee9e.gif132879475228118064 0
-66D:\College\Projects\Aniime-Search-Site\dist\giphy (4).7776c84e.gif132879493438630475 0
+66D:\College\Projects\Aniime-Search-Site\dist\giphy (4).7776c84e.gif132879494612592958 0
+66D:\College\Projects\Aniime-Search-Site\dist\giphy (5).067d6ff3.gif132879495326218217 0
 62D:\College\Projects\Aniime-Search-Site\dist\giphy.9ed2dd0d.gif132879463796736503 0
-62D:\College\Projects\Aniime-Search-Site\dist\index.4d663569.css132879493735277093 0
-66D:\College\Projects\Aniime-Search-Site\dist\index.4d663569.css.map132879493735296771 0
+62D:\College\Projects\Aniime-Search-Site\dist\index.4d663569.css132879498152833146 0
+66D:\College\Projects\Aniime-Search-Site\dist\index.4d663569.css.map132879498152843127 0
 66D:\College\Projects\Aniime-Search-Site\dist\index.af20ad6e.css.map132873371660354604 0
-66D:\College\Projects\Aniime-Search-Site\dist\index.c4530050.css.map132879493438111864 0
+66D:\College\Projects\Aniime-Search-Site\dist\index.c4530050.css.map132879498916871527 0
