@@ -1,7 +1,9 @@
 let Cards = ()=>
 {
     return(
-        <div className="card mb-3 anime-card">
+        
+  <div className="container">
+    <div className="card mb-3 anime-card">
   <div className="row g-0">
     <div className="col-md-4">
       <img src="..." className="img-fluid rounded-start" alt="..."/>
@@ -13,6 +15,7 @@ let Cards = ()=>
         <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p>
       </div>
     </div>
+  </div>
   </div>
 </div>
     );

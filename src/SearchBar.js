@@ -4,16 +4,20 @@ import "./SearchBar.css"
 let SearchBar = () =>
 {
   const [anime, searchAnime] = useState("");
+  const [clicked,updateClick]= useState(false);
+  const [animejson,updateanimejson]= useState("Hello");
   useEffect(()=>{
     requestAnime();
   },[]); // eslint-disable-line react-hooks/exhaustive-deps
 
 async function requestAnime(){
-  let url = 'https://api.jikan.moe/v4/anime?q='+ anime; 
+  
     try {
-      const response = await fetch(url);
+      const response = await fetch(`https://api.jikan.moe/v4/anime?q=${anime}`);
       const json = await response.json();
-      console.log(json);
+      updateanimejson(json.data[0].title);
+      console.log(animejson);
+
     } catch (error) {
       console.log("error", error);
     }
@@ -26,19 +30,21 @@ async function requestAnime(){
           <div className="d-flex justify-content-center">
               
       <div className="wrap">
-   <div className="search">
    
-      <input type="text" 
+      <form className="search">
+        <input type="text" 
       id="anime"
       value={anime}
       onChange={(e)=>searchAnime(e.target.value)}
       className="searchTerm form-control me-2" 
       placeholder="What are you looking for?" />
-      <button type="submit" className="searchButton">
+      <button type="submit" onClick={()=>updateClick(!clicked)} className="searchButton">
         <i className="fa fa-search"></i>
      </button>
+     </form>
+      
      
-   </div>
+   
 </div>
           </div>
          
