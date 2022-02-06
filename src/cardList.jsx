@@ -10,7 +10,7 @@ const CardList = ({results}) =>{
     return (
       <div className="result">
         {data.map((data) => (
-          <Cards key={data.data[0].mal_id} movie={data} />
+          <Cards key={data.data[0].mal_id} anime={data} />
         ))}
       </div>
     );

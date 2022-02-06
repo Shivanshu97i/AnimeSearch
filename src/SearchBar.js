@@ -1,85 +1,68 @@
 import {useState,useEffect} from "react";
-
+import axios from "axios";
 import "./SearchBar.css"
-let SearchBar = (props) =>
+import CardList from "./cardList.jsx"
+let SearchBar = () =>
 {
-  const {onSearch} = props;
+  // const {onSearch} = props;
   const [anime, searchAnime] = useState("");
+  const [url,setUrl] = useState(`https://api.jikan.moe/v4/anime`);
+  const [state, setState] = useState([]);
+  const [indicator,updateIndicator]= useState(false);
+  const onSearch = async () => {
+    const {data} = await axios.get(url);
+    
+
+    setState(data.data)
+    
+  };
+  function handleClick() {
+    if(indicator===false){
+      updateIndicator(true)
+    }
+    else{
+      updateIndicator(false)
+    }
+    
+  }
+useEffect(()=>{
+  onSearch();
   
-
-
+},[indicator])
     return(
         <div className="container form">
           <div className="d-flex justify-content-center">
               
       <div className="wrap">
    
-      <form className="search" onSubmit={(e) => {
-         
-          onSearch(anime)
-        }}>
+     
         <input type="text" 
       id="anime"
       value={anime}
       onKeyPress={(e)=>{if(e.key=== 'Enter') {
-        onSearch(anime)
+        handleClick();
       }}}
       onChange={(e)=>{searchAnime(e.target.value)
+        setUrl(`https://api.jikan.moe/v4/anime?q=${anime}`)
+        // console.log(url)
         }
       }
       className="searchTerm form-control me-2" 
       placeholder="What are you looking for?" />
       
-      <button type="submit"  className="searchButton">
+      <button type="submit"  className="searchButton" onClick={handleClick}>
         <i className="fa fa-search"></i>
      </button>
-     </form>
+     
       
      
    
 </div>
           </div>
-         
+         <div><CardList results={state}/></div>
       </div>
         
     );
 };
-//   const [result,searchResult] = useState([]);
-//   const [state,setState] = useState({results:[]});
-//   let data = [];
-//   useEffect(()=>{
-   
-//     if(url){
-//       requestAnime();
-//     }
-      
-    
-//   },[url]); // eslint-disable-line react-hooks/exhaustive-deps
 
-// async function requestAnime(){
-  
-//     try {
-      
-//       const results = await fetch(url);
-      
-//       const json = await results.json();
-//       // updateanimejson(json.data[0].title);
-//       // setState(prevState => {
-//       //   return { ...prevState, response: response }})
-      
-//       setState(prevState => {
-//         return { ...prevState, results: results }
-//       })
-//      setUrl(prevState => {
-//       return { ...prevState, url: url }
-//     })
-//      searchResult(json.data);
-//       console.log(state); 
-
-//     } catch (error) {
-//       console.log("error", error);
-//     }
-  
-// }
-  
 export default SearchBar;

@@ -1,12 +1,15 @@
-let Cards = ()=>
+import React from "react";
+
+let Cards = (props)=>
 {
+  const {anime}= props;
     return(
         
   <div className="container">
     <div className="card mb-3 anime-card">
   <div className="row g-0">
     <div className="col-md-4">
-      <img src="..." className="img-fluid rounded-start" alt="..."/>
+      <img src={anime.data[0].images.jpg.image_url} className="img-fluid rounded-start" alt="..."/>
     </div>
     <div className="col-md-8">
       <div className="card-body">
