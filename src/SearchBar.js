@@ -35,8 +35,8 @@ useEffect(()=>{
               
       <div className="wrap">
    
-     
         <input type="text" 
+     
       id="anime"
       value={anime}
       onKeyPress={(e)=>{if(e.key=== 'Enter') {
