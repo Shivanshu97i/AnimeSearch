@@ -1,4 +1,4 @@
-.anime-card {
-  /* max-width: 540px; */
-  width: 20%;
+.card{
+  max-width: 540px;
+  /* max-height: 230px; */
 }

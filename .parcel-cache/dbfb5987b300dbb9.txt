@@ -1,4 +1,4 @@
-26203
+26200
 60/mnt/d/College/Projects/Aniime-Search-Site/src/SearchBar.css1643382879057226800 0
 55/mnt/d/College/Projects/Aniime-Search-Site/src/main.css1643472189399453900 0
 57/mnt/d/College/Projects/Aniime-Search-Site/src/index.html1643635476532627700 0
@@ -7,10 +7,9 @@
 65/mnt/d/College/Projects/Aniime-Search-Site/src/Gifs/giphy (5).gif1643475927939061600 0
 65/mnt/d/College/Projects/Aniime-Search-Site/src/Gifs/giphy (1).gif1643473820540293600 0
 56/mnt/d/College/Projects/Aniime-Search-Site/src/footer.js1643573714450680500 0
-60/mnt/d/College/Projects/Aniime-Search-Site/src/Background.js1643472502944531900 0
-53/mnt/d/College/Projects/Aniime-Search-Site/src/App.js1644156887281046500 0
-60/mnt/d/College/Projects/Aniime-Search-Site/src/AnimeCards.js1644157290906985800 0
-46/mnt/d/College/Projects/Aniime-Search-Site/src1644153828831384200 1
+53/mnt/d/College/Projects/Aniime-Search-Site/src/App.js1644337114723465600 0
+60/mnt/d/College/Projects/Aniime-Search-Site/src/AnimeCards.js1644334970285909000 0
+46/mnt/d/College/Projects/Aniime-Search-Site/src1644336582144100300 1
 52/mnt/d/College/Projects/Aniime-Search-Site/README.md1642778263695514900 0
 55/mnt/d/College/Projects/Aniime-Search-Site/package.json1644009836524947600 0
 60/mnt/d/College/Projects/Aniime-Search-Site/package-lock.json1644324541012137900 0
@@ -1905,7 +1904,6 @@
 66/mnt/d/College/Projects/Aniime-Search-Site/node_modules/path-parse1643472188229913500 1
 74/mnt/d/College/Projects/Aniime-Search-Site/node_modules/path-key/readme.md1642795496745982400 0
 77/mnt/d/College/Projects/Aniime-Search-Site/node_modules/path-key/package.json1642795496697856700 0
-61/mnt/d/College/Projects/Aniime-Search-Site/src/Background.css1643396759144513900 0
 72/mnt/d/College/Projects/Aniime-Search-Site/node_modules/path-key/license1642795496618070000 0
 73/mnt/d/College/Projects/Aniime-Search-Site/node_modules/path-key/index.js1642795496657963900 0
 125/mnt/d/College/Projects/Aniime-Search-Site/node_modules/source-map-support/node_modules/source-map/lib/source-map-consumer.js1642795680155487100 0
@@ -6895,7 +6893,7 @@
 70/mnt/d/College/Projects/Aniime-Search-Site/node_modules/is-string/test1643472185703501200 1
 107/mnt/d/College/Projects/Aniime-Search-Site/node_modules/@popperjs/core/lib/dom-utils/isTableElement.js.flow1643293531937888400 0
 104/mnt/d/College/Projects/Aniime-Search-Site/node_modules/@popperjs/core/lib/dom-utils/isTableElement.d.ts1643293531934896900 0
-58/mnt/d/College/Projects/Aniime-Search-Site/dist/index.html1644324558013419200 0
+58/mnt/d/College/Projects/Aniime-Search-Site/dist/index.html1644337327896115800 0
 96/mnt/d/College/Projects/Aniime-Search-Site/node_modules/bootstrap-icons/icons/ui-radios-grid.svg1642864142432829000 0
 98/mnt/d/College/Projects/Aniime-Search-Site/node_modules/core-js-pure/proposals/string-match-all.js1642797302555703400 0
 92/mnt/d/College/Projects/Aniime-Search-Site/node_modules/core-js/features/typed-array/join.js1642798338218572300 0
@@ -7770,7 +7768,7 @@
 75/mnt/d/College/Projects/Aniime-Search-Site/node_modules/lodash/_DataView.js1642798042018721900 0
 104/mnt/d/College/Projects/Aniime-Search-Site/node_modules/@popperjs/core/lib/utils/computeAutoPlacement.js1643293532052581500 0
 105/mnt/d/College/Projects/Aniime-Search-Site/node_modules/bootstrap-icons/icons/file-earmark-lock2-fill.svg1642864141210110600 0
-66/mnt/d/College/Projects/Aniime-Search-Site/dist/index.c4530050.css1644324557946599600 0
+66/mnt/d/College/Projects/Aniime-Search-Site/dist/index.c4530050.css1644337328092755300 0
 85/mnt/d/College/Projects/Aniime-Search-Site/node_modules/@parcel/runtime-react-refresh1643472173270819900 1
 84/mnt/d/College/Projects/Aniime-Search-Site/node_modules/posthtml-render/changelog.md1642798329490923000 0
 92/mnt/d/College/Projects/Aniime-Search-Site/node_modules/is-number-object/.github/FUNDING.yml1642795673769932500 0
@@ -8128,7 +8126,7 @@
 103/mnt/d/College/Projects/Aniime-Search-Site/node_modules/@babel/plugin-transform-exponentiation-operator1643472169752872600 1
 101/mnt/d/College/Projects/Aniime-Search-Site/node_modules/@babel/types/lib/validators/matchesPattern.js1642795681529786500 0
 121/mnt/d/College/Projects/Aniime-Search-Site/node_modules/stream-http/node_modules/readable-stream/lib/_stream_transform.js1642798330223813200 0
-66/mnt/d/College/Projects/Aniime-Search-Site/dist/index.4d663569.css1644324558013161200 0
+66/mnt/d/College/Projects/Aniime-Search-Site/dist/index.4d663569.css1644337328015989800 0
 88/mnt/d/College/Projects/Aniime-Search-Site/node_modules/core-js/es/symbol/description.js1642798335235472100 0
 116/mnt/d/College/Projects/Aniime-Search-Site/node_modules/regenerate-unicode-properties/Script_Extensions/Inherited.js1642797681909088600 0
 127/mnt/d/College/Projects/Aniime-Search-Site/node_modules/eslint-plugin-react/node_modules/resolve/test/resolver/baz/package.json1642797310540486900 0
@@ -8357,7 +8355,7 @@
 108/mnt/d/College/Projects/Aniime-Search-Site/node_modules/@babel/plugin-transform-unicode-escapes/package.json1642797681528056900 0
 99/mnt/d/College/Projects/Aniime-Search-Site/node_modules/@heroicons/react/solid/ClipboardListIcon.js1642798878564081300 0
 103/mnt/d/College/Projects/Aniime-Search-Site/node_modules/lmdb/prebuilds/linux-arm64/node.abi83.musl.node1642798337699959300 0
-70/mnt/d/College/Projects/Aniime-Search-Site/dist/giphy (7).15ef95c7.gif1644324557992509700 0
+70/mnt/d/College/Projects/Aniime-Search-Site/dist/giphy (7).15ef95c7.gif1644337327957082000 0
 93/mnt/d/College/Projects/Aniime-Search-Site/node_modules/bootstrap-icons/icons/funnel-fill.svg1642864141405605700 0
 101/mnt/d/College/Projects/Aniime-Search-Site/node_modules/@babel/traverse/lib/path/generated/asserts.js1642795674686546400 0
 103/mnt/d/College/Projects/Aniime-Search-Site/node_modules/http-proxy-middleware/dist/context-matcher.d.ts1642798332411519800 0
@@ -8838,7 +8836,7 @@
 90/mnt/d/College/Projects/Aniime-Search-Site/node_modules/@parcel/core/src/Transformation.js1642798335110805900 0
 106/mnt/d/College/Projects/Aniime-Search-Site/node_modules/@babel/runtime-corejs3/core-js-stable/math/sinh.js1642797300695606900 0
 79/mnt/d/College/Projects/Aniime-Search-Site/node_modules/lodash/fp/complement.js1642798042188267700 0
-70/mnt/d/College/Projects/Aniime-Search-Site/dist/index.c4530050.css.map1644324557953580200 0
+70/mnt/d/College/Projects/Aniime-Search-Site/dist/index.c4530050.css.map1644337328096590200 0
 98/mnt/d/College/Projects/Aniime-Search-Site/node_modules/@heroicons/react/solid/ChevronRightIcon.js1642798878492273100 0
 108/mnt/d/College/Projects/Aniime-Search-Site/node_modules/@babel/runtime-corejs3/core-js-stable/math/fround.js1642797300676657500 0
 101/mnt/d/College/Projects/Aniime-Search-Site/node_modules/@babel/traverse/lib/path/lib/removal-hooks.js1642795675701498300 0
@@ -9631,7 +9629,7 @@
 90/mnt/d/College/Projects/Aniime-Search-Site/node_modules/@parcel/utils/src/shared-buffer.js1642798334262689100 0
 70/mnt/d/College/Projects/Aniime-Search-Site/node_modules/diffie-hellman1643472181930898600 1
 98/mnt/d/College/Projects/Aniime-Search-Site/node_modules/core-js-pure/internals/get-substitution.js1642797301901381800 0
-69/mnt/d/College/Projects/Aniime-Search-Site/dist/index.7271efb6.js.map1644324558257825300 0
+69/mnt/d/College/Projects/Aniime-Search-Site/dist/index.7271efb6.js.map1644337328243741700 0
 91/mnt/d/College/Projects/Aniime-Search-Site/node_modules/bootstrap-icons/icons/view-list.svg1642864142459752500 0
 82/mnt/d/College/Projects/Aniime-Search-Site/node_modules/tsconfig-paths/register.js1642797283007635500 0
 88/mnt/d/College/Projects/Aniime-Search-Site/node_modules/core-js/internals/hidden-keys.js1642798338036059800 0
@@ -14137,7 +14135,7 @@
 100/mnt/d/College/Projects/Aniime-Search-Site/node_modules/@heroicons/react/outline/SpeakerphoneIcon.js1642798879585204600 0
 100/mnt/d/College/Projects/Aniime-Search-Site/node_modules/bootstrap/js/src/util/component-functions.js1643293531736427600 0
 102/mnt/d/College/Projects/Aniime-Search-Site/node_modules/core-js/features/string/virtual/replace-all.js1642798338420033600 0
-59/mnt/d/College/Projects/Aniime-Search-Site/src/cardList.jsx1644157137437518700 0
+59/mnt/d/College/Projects/Aniime-Search-Site/src/cardList.jsx1644337327467865900 0
 98/mnt/d/College/Projects/Aniime-Search-Site/node_modules/@parcel/node-resolver-core/src/builtins.js1642798332126282600 0
 105/mnt/d/College/Projects/Aniime-Search-Site/node_modules/@heroicons/react/outline/esm/ChevronDownIcon.d.ts1642798879869445000 0
 83/mnt/d/College/Projects/Aniime-Search-Site/node_modules/lodash/fp/differenceWith.js1642798042238134900 0
@@ -20117,7 +20115,7 @@
 90/mnt/d/College/Projects/Aniime-Search-Site/node_modules/core-js-pure/actual/reflect/set.js1642797302416006000 0
 100/mnt/d/College/Projects/Aniime-Search-Site/node_modules/core-js-pure/actual/reflect/to-string-tag.js1642797302686113900 0
 77/mnt/d/College/Projects/Aniime-Search-Site/node_modules/node-addon-api/napi.h1642798330977310000 0
-65/mnt/d/College/Projects/Aniime-Search-Site/dist/index.7271efb6.js1644324558165501300 0
+65/mnt/d/College/Projects/Aniime-Search-Site/dist/index.7271efb6.js1644337328133527900 0
 82/mnt/d/College/Projects/Aniime-Search-Site/node_modules/core-js-pure/actual/regexp1643472176336525100 1
 85/mnt/d/College/Projects/Aniime-Search-Site/node_modules/core-js-pure/es/string/sup.js1642797302626274000 0
 105/mnt/d/College/Projects/Aniime-Search-Site/node_modules/@heroicons/react/solid/esm/StatusOfflineIcon.d.ts1642798880289921900 0
@@ -20326,7 +20324,7 @@
 94/mnt/d/College/Projects/Aniime-Search-Site/node_modules/core-js/modules/esnext.bigint.range.js1642798335967709900 0
 97/mnt/d/College/Projects/Aniime-Search-Site/node_modules/core-js-pure/es/array/virtual/flat-map.js1642797301801648600 0
 98/mnt/d/College/Projects/Aniime-Search-Site/node_modules/core-js-pure/es/number/min-safe-integer.js1642797302223520200 0
-47/mnt/d/College/Projects/Aniime-Search-Site/dist1644324558263400700 1
+47/mnt/d/College/Projects/Aniime-Search-Site/dist1644337328249725700 1
 93/mnt/d/College/Projects/Aniime-Search-Site/node_modules/core-js-pure/es/array/virtual/flat.js1642797301810625000 0
 97/mnt/d/College/Projects/Aniime-Search-Site/node_modules/core-js-pure/es/array/virtual/for-each.js1642797301838550000 0
 97/mnt/d/College/Projects/Aniime-Search-Site/node_modules/core-js-pure/es/array/virtual/index-of.js1642797301954240100 0
@@ -21130,7 +21128,7 @@
 90/mnt/d/College/Projects/Aniime-Search-Site/node_modules/core-js-pure/features/url/index.js1642797302022059100 0
 92/mnt/d/College/Projects/Aniime-Search-Site/node_modules/core-js-pure/features/url/to-json.js1642797302661180000 0
 92/mnt/d/College/Projects/Aniime-Search-Site/node_modules/cosmiconfig/dist/ExplorerSync.js.map1642798332390576400 0
-70/mnt/d/College/Projects/Aniime-Search-Site/dist/index.4d663569.css.map1644324558016412900 0
+70/mnt/d/College/Projects/Aniime-Search-Site/dist/index.4d663569.css.map1644337328019979400 0
 95/mnt/d/College/Projects/Aniime-Search-Site/node_modules/core-js-pure/features/url-search-params1643472176707449300 1
 98/mnt/d/College/Projects/Aniime-Search-Site/node_modules/core-js/modules/es.typed-array.for-each.js1642798335839053100 0
 104/mnt/d/College/Projects/Aniime-Search-Site/node_modules/core-js-pure/features/url-search-params/index.js1642797302021061900 0
@@ -25347,7 +25345,6 @@
 94/mnt/d/College/Projects/Aniime-Search-Site/node_modules/highlight.js/lib/languages/asciidoc.js1642798334928036800 0
 93/mnt/d/College/Projects/Aniime-Search-Site/node_modules/highlight.js/lib/languages/aspectj.js1642798334930047300 0
 92/mnt/d/College/Projects/Aniime-Search-Site/node_modules/highlight.js/lib/languages/avrasm.js1642798334942997500 0
-61/mnt/d/College/Projects/Aniime-Search-Site/src/SearchPage.jsx1644156917824291700 0
 102/mnt/d/College/Projects/Aniime-Search-Site/node_modules/tsconfig-paths/node_modules/json5/package.json1642797282831107200 0
 109/mnt/d/College/Projects/Aniime-Search-Site/node_modules/react-router/node_modules/path-to-regexp/package.json1643637770178961800 0
 89/mnt/d/College/Projects/Aniime-Search-Site/node_modules/highlight.js/lib/languages/awk.js1642798334944992600 0
@@ -25517,7 +25514,7 @@
 101/mnt/d/College/Projects/Aniime-Search-Site/node_modules/highlight.js/styles/atelier-lakeside-dark.css1642798332399551900 0
 102/mnt/d/College/Projects/Aniime-Search-Site/node_modules/highlight.js/styles/atelier-lakeside-light.css1642798332458401600 0
 100/mnt/d/College/Projects/Aniime-Search-Site/node_modules/highlight.js/styles/atelier-plateau-dark.css1642798332554143800 0
-59/mnt/d/College/Projects/Aniime-Search-Site/src/SearchBar.js1644165022619300000 0
+59/mnt/d/College/Projects/Aniime-Search-Site/src/SearchBar.js1644337200155037100 0
 101/mnt/d/College/Projects/Aniime-Search-Site/node_modules/highlight.js/styles/atelier-plateau-light.css1642798332620965200 0
 73/mnt/d/College/Projects/Aniime-Search-Site/node_modules/serve-handler/src1643472188844521000 1
 101/mnt/d/College/Projects/Aniime-Search-Site/node_modules/highlight.js/styles/atelier-savanna-light.css1642798332728678000 0

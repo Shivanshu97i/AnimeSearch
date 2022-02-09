@@ -30,22 +30,26 @@ body {
 }
 
 .searchButton {
-  width: 40px;
-  height: 38px;
-  border: 1px solid #00b4cc;
-  background: #00b4cc;
+  width: 60px;
+  height: 40px;
+  border: 1px solid #1B262C;
+  background: #1B262C;
   text-align: center;
   color: #fff;
-  border-radius: 0 5px 5px 0;
+  border-radius: 5px 5px 5px 5px;
   cursor: pointer;
   font-size: 20px;
 }
 
 /*Resize the wrap to see the search bar change!*/
 .wrap {
-  width: 30%;
+  width: 40%;
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+}
+.customclassbutton{
+  margin-left: 45%;
+  margin-top: 10px;
 }
