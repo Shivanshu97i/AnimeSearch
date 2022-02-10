@@ -10,6 +10,7 @@ import SearchBar from "./SearchBar.js";
 import Footer from "./footer.js";
 import React from "react";
 import CardList from "./cardList.jsx";
+import Contents from "./Contents.jsx";
 const App = () => {
     const [state, setState] = useState([]);
     const onSearch = async (url) => {
@@ -22,13 +23,16 @@ const App = () => {
     return (
         <div>
 
-            <div><Navbar /></div>
+            
+<Router>
+    <Route exact path={"/"}><div><Navbar /></div>
             <div><SearchBar onSearch={onSearch} /></div>
-
             <div><Footer /></div>
-
-
             <div><CardList anime={state} /></div>
+</Route>
+<Route exact path={"/contents"}><Contents/></Route>
+</Router>
+
 
 
 

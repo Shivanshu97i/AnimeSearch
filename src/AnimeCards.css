@@ -1,4 +1,7 @@
-.card{
-  max-width: 540px;
+.card {
+  max-width: 600px;
   /* max-height: 230px; */
+}
+.font {
+  font-family: "Ubuntu", sans-serif;
 }
