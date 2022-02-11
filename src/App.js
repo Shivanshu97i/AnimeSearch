@@ -1,9 +1,9 @@
 
-import reactDom from "react-dom";
-import { BrowserRouter as Router, Route, Switch, Link } from "react-router-dom";
-import { render } from "react-dom";
+
+import { BrowserRouter as Router, Route } from "react-router-dom";
+
 import axios from "axios";
-import Cards from "./AnimeCards.js"
+
 import { useState } from "react";
 import Navbar from "./navbar.js";
 import SearchBar from "./SearchBar.js";

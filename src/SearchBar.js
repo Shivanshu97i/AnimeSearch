@@ -23,8 +23,8 @@ let SearchBar = (props) => {
   }
   useEffect(() => {
     onSearch(url);
-
-  }, [indicator])
+// eslint-disable-next-line
+  }, [indicator]) 
   return (
     <div className="container form">
       <div className="d-flex justify-content-center">

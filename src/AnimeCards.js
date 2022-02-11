@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import "./AnimeCards.css"
-import react from "react";
+
 let Cards = (props) => {
 
   const { anime } = props;
