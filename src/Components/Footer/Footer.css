@@ -1,0 +1,13 @@
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+.tag-footer {
+}
+.footer-div {
+  margin-left: 47%;
+}
+.icon {
+  color: white;
+}

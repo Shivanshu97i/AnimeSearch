@@ -5,12 +5,12 @@ import { BrowserRouter as Router, Route } from "react-router-dom";
 import axios from "axios";
 
 import { useState } from "react";
-import Navbar from "./navbar.js";
-import SearchBar from "./SearchBar.js";
-import Footer from "./footer.js";
+import Navbar from "./Components/Navbar/navbar.js";
+import SearchBar from "./Components/Search_Bar/SearchBar.js";
+import Footer from "./Components/Footer/footer.js";
 import React from "react";
-import CardList from "./cardList.jsx";
-import Contents from "./Contents.jsx";
+import CardList from "./Components/Card/cardList.jsx";
+import Contents from "./Components/Content/Contents.jsx";
 const App = () => {
     const [state, setState] = useState([]);
     const onSearch = async (url) => {
